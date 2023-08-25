@@ -1,0 +1,103 @@
+[[libwebsockets]]
+arch = "aarch64"
+git-tree-sha1 = "c53a26689827c2216b1054360ad38e8f43cfd15d"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "e9f3ffbdab29934116fd205f801635abc4de0364cd9e5995407b83402754739d"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.aarch64-linux-gnu.tar.gz"
+[[libwebsockets]]
+arch = "aarch64"
+git-tree-sha1 = "6dd89bf1e6a1f04883d548047338b8640354200c"
+libc = "musl"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "11d84544de7fce1cda4039546febe6ea56470542e8ba9b50d1173a4ac9e1dbac"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.aarch64-linux-musl.tar.gz"
+[[libwebsockets]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "2ebc284fd1869c0f37becb7ba1976b30a2b3cfad"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "e8c4c7853f2b194edaba3993c1cf51f07306d577f55dca91ac47345f71f3cfa7"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.armv6l-linux-gnueabihf.tar.gz"
+[[libwebsockets]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "18b7656fe6abcc9b826623fa0bcdd749f5051394"
+libc = "musl"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "c86ea3d181bdcd7f31c7f0143ee6b656a25e4cabaa2605269626cb35ff1c2cdf"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.armv6l-linux-musleabihf.tar.gz"
+[[libwebsockets]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "9c01dd3e9cb0aab1ef94d78044cdb4b89ac284b0"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "418e9a2317f7b3bf35bd5d62352aa3c84973854bc064424f3811500a2adb902b"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.armv7l-linux-gnueabihf.tar.gz"
+[[libwebsockets]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3aa666e3aeff90cf2b0718251dfb7d818e2f520e"
+libc = "musl"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "5470cd57ac91f75b4ecda2ab4cb47ea879b1b43a3553833cb96aac50ad1d4f9a"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.armv7l-linux-musleabihf.tar.gz"
+[[libwebsockets]]
+arch = "i686"
+git-tree-sha1 = "aa873589adee71d88325d5676c9f20afd82eb4fb"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "5fa949299574b9151333cc3ea786aba0f5d7e3f5dca81c6740340dec8d94dd6c"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.i686-linux-gnu.tar.gz"
+[[libwebsockets]]
+arch = "i686"
+git-tree-sha1 = "27322b511fa7adc40896a733e58a4b7a8899875b"
+libc = "musl"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "970b6d58fcf8b76f9aa2951d4dc62898a9303479b8286fb4a3108458d7fdc36d"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.i686-linux-musl.tar.gz"
+[[libwebsockets]]
+arch = "powerpc64le"
+git-tree-sha1 = "79a9bd2f7925fb439fcf57242575e17087c520b0"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "1c5927aac5f4f09adf7d02d73a815b046d631ca04c3d18525557e3a5a9adb2ba"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.powerpc64le-linux-gnu.tar.gz"
+[[libwebsockets]]
+arch = "x86_64"
+git-tree-sha1 = "1077a2079b16e27a3c5a0ce5b88f6ca7475d5eb4"
+libc = "glibc"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "a08835fa8be9fc6c4c151bd673f239a9a548fe71948a2c5f848008945012ed62"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.x86_64-linux-gnu.tar.gz"
+[[libwebsockets]]
+arch = "x86_64"
+git-tree-sha1 = "b6f2cbb856d3d894ee407b81ab78472e80f1f723"
+libc = "musl"
+os = "linux"
+
+    [[libwebsockets.download]]
+    sha256 = "d2ad59190d221b4386eba542003debc1f4118846d956ace3f76166e2cefbcfe6"
+    url = "https://github.com/LexaLutyi/LibWebSockets_jll.jl/releases/download/libwebsockets-v4.3.2+0/libwebsockets.v4.3.2.x86_64-linux-musl.tar.gz"
